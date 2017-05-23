@@ -1,0 +1,2 @@
+include ':sample', ':lib'
+project(':lib').projectDir = new File('achievementview')
